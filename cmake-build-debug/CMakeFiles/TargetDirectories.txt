@@ -1,0 +1,3 @@
+C:/Users/Leon/CLionProjects/stack_thread_safe/cmake-build-debug/CMakeFiles/stack_thread_safe.dir
+C:/Users/Leon/CLionProjects/stack_thread_safe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Leon/CLionProjects/stack_thread_safe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
